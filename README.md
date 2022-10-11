@@ -1,5 +1,11 @@
 # competitive-programming
-### patterns
+
+###patterns
+Pattern Questions
+
+Print these patterns using loops:
+
+```text
 
 1.  *****
     *****
@@ -267,3 +273,4 @@
        12    21
        123  321
        12344321
+```
